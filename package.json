@@ -1,0 +1,15 @@
+{
+  "name": "piantech-uploader-github",
+  "version": "1.0.0",
+  "description": "Telegram bot uploader github by Piantech",
+  "main": "bot.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.15.0",
+    "unzipper": "^0.10.14"
+  }
+}
+
