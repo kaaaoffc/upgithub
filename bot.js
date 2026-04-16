@@ -4,8 +4,8 @@ const path = require("path");
 const { execSync } = require("child_process");
 const unzipper = require("unzipper");
 
-const BOT_TOKEN = "8599622741:AAHDRE7qSzXGSBvnzwoLbZbCoit_egPc0Qw";
-const REQUIRED_CHANNEL = "@Piantechinfo";
+const BOT_TOKEN = "7789045134:AAHXFSK_DRB369eCPFWzNj2L9c9t9ba_3e8";
+const REQUIRED_CHANNEL = "@k_store_hosting_offc";
 const DEFAULT_BRANCH = "main";
 const MAX_FILE_SIZE_MB = 50;
 const MAX_FILE_SIZE_BYTES = MAX_FILE_SIZE_MB * 1024 * 1024;
